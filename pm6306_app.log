@@ -1,0 +1,13 @@
+2026-09-30 18:22:38,917 INFO gui.tab_medicion: Conectado a SIMULADO.
+2026-09-30 18:22:49,314 INFO gui.tab_medicion: Ensayo #1 guardado (13 puntos).
+2026-09-30 18:23:19,891 INFO gui.tab_medicion: Punto individual medido (no se guarda en la BD).
+2026-09-30 18:24:01,420 INFO gui.tab_medicion: Desconectado (control local).
+2026-10-01 17:57:47,534 INFO gui.tab_medicion: Conectado a SIMULADO.
+2026-10-01 17:57:50,957 INFO gui.tab_medicion: Ensayo #2 guardado (13 puntos).
+2026-10-01 17:58:02,823 INFO gui.tab_medicion: Ensayo #3 guardado (13 puntos).
+2026-10-01 17:58:19,101 INFO gui.tab_medicion: Ensayo #4 guardado (13 puntos).
+2026-10-01 22:14:35,554 INFO gui.tab_medicion: Desconectado (control local).
+2026-10-01 22:14:49,240 INFO gui.tab_medicion: Conectado a SIMULADO.
+2026-10-01 22:15:20,729 INFO gui.tab_medicion: Ensayo #5 guardado (13 puntos).
+2026-10-02 11:18:20,516 INFO gui.tab_medicion: Desconectado (control local).
+2026-10-02 11:18:27,065 INFO gui.tab_medicion: Conectado a SIMULADO.
